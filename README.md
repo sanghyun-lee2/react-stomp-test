@@ -1,2 +1,3 @@
 # react-stomp-test
-react-stomp-test
+npm install
+npm start
